@@ -53,11 +53,6 @@ App Icon:
 - `Creature.swift`: A model representing a creature with attributes such as name, modelName, hungerLevel, happiness, and age.
 - `CreatureDetailView.swift`: Contains the model view for the pop out view of the pet.
 
-## Known Issues
-
-- Currently, the app only includes basic interaction features.
-- More complex features like health tracking, energy levels, and additional interactions are not yet implemented.
-
 ## License
 
 This project is licensed under the GPL V3 License - see the [LICENSE](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/blob/master/LICENSE) file for details.
