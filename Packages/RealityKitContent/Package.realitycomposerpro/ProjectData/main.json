@@ -1,0 +1,20 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "440DE5B4-E4E4-459B-AABF-9ACE96319272",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "34C460AE-CA1B-4348-BD05-621ACBDFFE97",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "03E02005-EFA6-48D6-8A76-05B2822A74E9",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Bicolor Cat model.usdz" : "824820D6-C2F5-4A64-A3BF-40981CE8548F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Bird Orange 3D Model.usdz" : "EB590140-94EF-4022-9E88-25561C0E72DF",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/BirdScene.usda" : "0FBEE7AA-0DD2-4A66-BB6C-F02BDB9ABEED",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/CatScene.usda" : "F2DF5FA2-3D9B-460E-A79D-BE4C991E026E",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Clodsire 3D Model.usdz" : "BBF96847-EAB7-490A-B221-26F913D0636C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/DeathScene.usda" : "0E4281F6-94D9-4C4C-959B-0EC8E7FFE031",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/DogScene.usda" : "DB1644EA-2A4F-44D0-971A-3D2DD02F4082",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/FishScene.usda" : "16C77EF0-DB15-4269-80BD-875412433CFE",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "FBD8436F-6B8B-4B82-99B5-995D538B4704",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/PokemonScene.usda" : "3C058F89-DC59-4DBB-A955-B0DCC3E08619",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "1CBF3893-ABFD-408C-8B91-045BFD257808",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "26DBAE76-5DD8-47B6-A085-1B4ADA111097"
+  }
+}
