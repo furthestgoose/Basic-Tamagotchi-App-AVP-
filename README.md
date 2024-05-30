@@ -37,6 +37,16 @@ A virtual pet application built using SwiftUI and RealityKit, where users can se
 4. Monitor your pet's attributes (happiness, hunger, and age) in real-time.
 5. If the pet dies, the reason and age at death will be displayed.
 
+## Screenshots
+overview example:
+![overview example](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/assets/77462614/c0e2d6bc-db41-42a3-bb49-04244399d724)
+pop out view example:
+![pop out view example](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/assets/77462614/3634d09b-1db2-460f-bc70-d2ded049e183)
+death example:
+![death example](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/assets/77462614/df4a2d83-d5cd-4cca-8829-33b36d3f907e)
+App Icon:
+![app icon](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/assets/77462614/13f8fd29-b259-4bfe-b1b4-97dd12403815)
+
 ## Code Structure
 
 - `ContentView.swift`: The main view of the app, containing the user interface and logic for interacting with pets.
@@ -50,7 +60,7 @@ A virtual pet application built using SwiftUI and RealityKit, where users can se
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL V3 License - see the [LICENSE](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
